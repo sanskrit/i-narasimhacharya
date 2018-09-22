@@ -4,5 +4,37 @@ title: Parts
 contents:
   - title: Home - Intro
     url: /index.html
+  - title: नरसिंहाचार्यः
+    contents:
+        - title: नरसिंहाचार्यः - परिचयः
+          url: /i_narasimhaachaarya/index.html
+        - title: उपयुक्तांश-सङ्ग्रहः
+          contents:
+            - title: उपयुक्तांश-सङ्ग्रहः - परिचयः
+              url: /i_narasimhaachaarya/upayuktaamsha/index.html
+            - title: उपयुक्तश्लोकाः
+              url: /i_narasimhaachaarya/upayuktaamsha/upayukta-shlokaah.html
+            - title: क्रियानिघण्टुः
+              url: /i_narasimhaachaarya/upayuktaamsha/kriyaa-nighaNTu.html
+            - title: तत्तद्व्याख्योक्तकोशेष्वजादिपदानि
+              url: /i_narasimhaachaarya/upayuktaamsha/tattadvyakhyoktakosesvajadipadani.html
+            - title: प्रमाणवचनानि (तत्तद्व्याख्योदाहृतानि)
+              url: /i_narasimhaachaarya/upayuktaamsha/tattadvyakhyodahrtapramanavacanani.html
+            - title: लिङ्गानुशासनम्
+              url: /i_narasimhaachaarya/upayuktaamsha/linganusasanam.html
+            - title: श्रुतबोधः
+              url: /i_narasimhaachaarya/upayuktaamsha/shrutabodha.html
+            - title: समासशिखामणिः
+              url: /i_narasimhaachaarya/upayuktaamsha/samaasa-shikhaamaNi.html
+        - title: श्रीहर्षकोशः
+          contents:
+            - title: पञ्चरूपपद्धतिः
+              url: /i_narasimhaachaarya/shriiharshakosha/pancha.html
+            - title: चतूरूपकोशः
+              url: /i_narasimhaachaarya/shriiharshakosha/chatur.html
+            - title: त्रिरूपकोशः
+              url: /i_narasimhaachaarya/shriiharshakosha/tri.html
+            - title: द्विरूपादिकोशः
+              url: /i_narasimhaachaarya/shriiharshakosha/dvi.html
   - title: Blog
     url: /assets/blog/index.html
