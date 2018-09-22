@@ -36,5 +36,11 @@ contents:
               url: /i_narasimhaachaarya/shriiharshakosha/tri.html
             - title: द्विरूपादिकोशः
               url: /i_narasimhaachaarya/shriiharshakosha/dvi.html
+        - title: शिशुपालवधम्
+          contents:
+          - title: शिशुपालवधे सर्गः १
+            url: /i_narasimhaachaarya/shishupaalavadha/sarga-1.html
+          - title: शिशुपालवधे सर्गः २
+            url: /i_narasimhaachaarya/shishupaalavadha/sarga-2.html
   - title: Blog
     url: /assets/blog/index.html
